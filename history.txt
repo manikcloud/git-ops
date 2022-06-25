@@ -11,7 +11,7 @@
   140  git logs
   141  git log
   142  git log --oneline
-  143  history 
+  143  historyi 
   144  vim history.txt
   145  history
 
